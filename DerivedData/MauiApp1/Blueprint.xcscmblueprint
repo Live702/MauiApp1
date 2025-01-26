@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A11ABE6EC09CD0468DAE4960C42889794FBA8D4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54D3D041-35AE-4283-AA42-A0ED7BBFE2AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A11ABE6EC09CD0468DAE4960C42889794FBA8D4" : "..\/..\/..\/..\/Library\/Developer\/Xcode\/DerivedData\/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq\/SourcePackages\/checkouts\/swift-system"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MauiApp1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MauiApp1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/timothymay\/Library\/Developer\/Xcode\/DerivedData\/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq\/SourcePackages\/repositories\/swift-system-5815d4b7",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A11ABE6EC09CD0468DAE4960C42889794FBA8D4"
+    }
+  ]
+}

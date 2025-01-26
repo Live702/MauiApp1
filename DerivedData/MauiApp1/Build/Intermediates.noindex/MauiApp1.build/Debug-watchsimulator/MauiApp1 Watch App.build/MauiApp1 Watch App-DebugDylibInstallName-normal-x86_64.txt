@@ -1,0 +1,1 @@
+@rpath/MauiApp1 Watch App.debug.dylib

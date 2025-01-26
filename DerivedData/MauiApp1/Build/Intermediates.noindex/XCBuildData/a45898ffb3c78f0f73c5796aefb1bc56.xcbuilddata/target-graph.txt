@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+Target 'MauiApp1' in project 'MauiApp1'
+➜ Explicit dependency on target 'MauiApp1 Watch App' in project 'MauiApp1'
+Target 'MauiApp1 Watch App' in project 'MauiApp1'
+➜ Explicit dependency on target 'SystemPackage' in project 'swift-system'
+Target 'SystemPackage' in project 'swift-system'
+➜ Explicit dependency on target 'SystemPackage' in project 'swift-system'
+➜ Explicit dependency on target 'CSystem' in project 'swift-system'
+Target 'SystemPackage' in project 'swift-system'
+➜ Explicit dependency on target 'CSystem' in project 'swift-system'
+Target 'CSystem' in project 'swift-system' (no dependencies)

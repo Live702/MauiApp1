@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'MauiApp1 Watch App' in project 'MauiApp1' (no dependencies)
+Target 'MauiApp1 Watch App' in project 'MauiApp1' (no dependencies)

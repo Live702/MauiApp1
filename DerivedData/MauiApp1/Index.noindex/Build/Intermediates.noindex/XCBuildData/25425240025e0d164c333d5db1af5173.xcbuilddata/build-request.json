@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "f67f9ab94236fc724fcfe143bf4f3daa6e1e06c9ce3fbfb3085df8bbd0804675"
+    }
+  ],
+  "containerPath" : "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Products",
+      "pchPath" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

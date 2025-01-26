@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-iphoneos/MauiApp1.build/Objects-normal/arm64/MauiApp1-master.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-iphoneos/MauiApp1.build/Objects-normal/arm64/MauiApp1-master.dia",
+    "emit-module-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-iphoneos/MauiApp1.build/Objects-normal/arm64/MauiApp1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-iphoneos/MauiApp1.build/Objects-normal/arm64/MauiApp1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-iphoneos/MauiApp1.build/Objects-normal/arm64/MauiApp1-master.swiftdeps"
+  },
+  "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-iphoneos/MauiApp1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1/ContentView.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1/MauiApp1App.swift" : {
+
+  }
+}

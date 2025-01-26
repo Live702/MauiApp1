@@ -1,0 +1,30 @@
+{
+  "" : {
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/arm64/MauiApp1 Watch App-master.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/arm64/MauiApp1 Watch App-master.dia",
+    "emit-module-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/arm64/MauiApp1 Watch App-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/arm64/MauiApp1 Watch App-master-emit-module.dia",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/arm64/MauiApp1 Watch App-master.swiftdeps"
+  },
+  "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Index.noindex/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/CommandStatus.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/CommunicationHandler.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/ContentView.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/Helper.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/MauiApp1App.swift" : {
+
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/SessionDelegator.swift" : {
+
+  }
+}

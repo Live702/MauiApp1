@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-system",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-system.git",
+          "name" : "swift-system"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "c8a44d836fe7913603e246acab7c528c2e780168",
+            "version" : "1.4.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-system"
+      }
+    ]
+  },
+  "version" : 6
+}

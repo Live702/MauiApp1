@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1 Watch App-master.dia",
+    "emit-module-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1 Watch App-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1 Watch App-master-emit-module.dia",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1 Watch App-master.swiftdeps"
+  },
+  "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/CommandStatus.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommandStatus~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/CommunicationHandler.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/CommunicationHandler~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/ContentView.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/Helper.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/Helper~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/MauiApp1App.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/MauiApp1App~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1 Watch App/SessionDelegator.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-watchsimulator/MauiApp1 Watch App.build/Objects-normal/x86_64/SessionDelegator~partial.swiftmodule"
+  }
+}

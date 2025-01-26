@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1-master.dia",
+    "emit-module-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1-master.swiftdeps"
+  },
+  "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1/ContentView.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/timothymay/Repos/MauiApp4/WatchApps/Apple/MauiApp1/MauiApp1/MauiApp1App.swift" : {
+    "const-values" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.swiftconstvalues",
+    "dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.d",
+    "diagnostics" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.dia",
+    "index-unit-output-path" : "/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.o",
+    "llvm-bc" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.bc",
+    "object" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.o",
+    "swift-dependencies" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App.swiftdeps",
+    "swiftmodule" : "/Users/timothymay/Library/Developer/Xcode/DerivedData/MauiApp1-giwbgscmfkvzjheapbmrwtwvnmxq/Build/Intermediates.noindex/MauiApp1.build/Debug-iphonesimulator/MauiApp1.build/Objects-normal/arm64/MauiApp1App~partial.swiftmodule"
+  }
+}
