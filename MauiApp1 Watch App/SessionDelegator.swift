@@ -133,7 +133,7 @@ class SessionDelegator: NSObject, WCSessionDelegate, ObservableObject {
             return false
         }
     }
-    
+    //<<<BOOKMARK>>>
     /// Connects and activates the Watch Connectivity session
     func connect() {
         guard WCSession.isSupported() else {
@@ -157,7 +157,7 @@ class SessionDelegator: NSObject, WCSessionDelegate, ObservableObject {
     func session(_ session: WCSession, activationDidCompleteWith activationState: WCSessionActivationState, error: Error?) {
         postNotification(name: Notification.Name.ActivationDidComplete, object: nil)
     }
-    
+    //<<<BOOKMARK>>>
     func sessionReachabilityDidChange(_ session: WCSession) {
         postNotification(name: Notification.Name.ReachabilityDidChange, object: nil)
     }

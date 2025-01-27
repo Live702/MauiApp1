@@ -14,7 +14,6 @@ class CommunicationHandler {
     var reconnectCount: Int = 0
     
     init() {
-        
     }
     
     /// Sends the current status the watch/recording to the phone
