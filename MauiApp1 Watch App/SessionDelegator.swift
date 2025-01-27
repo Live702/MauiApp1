@@ -22,7 +22,11 @@ class SessionDelegator: NSObject, WCSessionDelegate, ObservableObject {
             self.connect()
         }
     }
-    
+    func checkLastSentCommand(command: String, parameter: String) -> Bool {
+        log("Attempting to send command: \(command)")
+        return false  // Always allow command to send
+    }
+    /*
     private func checkLastSentCommand(command: String, parameter: String) -> Bool {
         return sentCommands.contains { sentCommand in
             if sentCommand.Command == command && sentCommand.Parameter == parameter && sentCommand.TimeStamp.timeIntervalSinceNow > TimeInterval(60 * 15) {
@@ -32,7 +36,7 @@ class SessionDelegator: NSObject, WCSessionDelegate, ObservableObject {
             }
         }
     }
-    
+    */
     func removeLastSentCommand(command: String, parameter: String) {
         sentCommands.removeAll { sentCommand in
             if sentCommand.Command == command && sentCommand.Parameter == parameter {
@@ -64,6 +68,31 @@ class SessionDelegator: NSObject, WCSessionDelegate, ObservableObject {
     ///   - reply: Command string to send to the phone.
     ///   - stringData: Extra data to send with command
     ///   - numberData: Any numerical data as a `Double`
+    
+    func sendReply(reply: String, stringData: String = "", numberData: Double = Double.nan, binaryData: NSArray = [], highPriorty: Bool = false) {
+        if !checkLastSentCommand(command: reply, parameter: stringData) {
+            do {
+                sentCommands.append(SentCommands(Command: reply, Parameter: stringData, TimeStamp: Date.now))
+                let dict: [String:Any] = [PayloadKey.TimeStamp:Date.now,
+                                          PayloadKey.Command:reply,
+                                          PayloadKey.BinaryData:binaryData,
+                                          PayloadKey.StringData:stringData,
+                                          PayloadKey.NumberData:numberData]
+                log("About to send command: \(reply) with priority: \(highPriorty)")  // Add this line
+                if highPriorty {
+                    session.transferUserInfo(dict)
+                } else {
+                    try session.updateApplicationContext(dict)
+                }
+                log("Sending CMD to Phone: \(reply)")
+            } catch {
+                log("Error sending command to phone: \(error.localizedDescription)")
+            }
+        }  else {
+            log("Command \(reply) (\(stringData)) last sent less than 15 minutes ago without a response, ignoring")
+        }
+    }
+    /*
     func sendReply(reply: String, stringData: String = "", numberData: Double = Double.nan, binaryData: NSArray = [], highPriorty: Bool = false) {
         if !checkLastSentCommand(command: reply, parameter: stringData) {
             do {
@@ -86,7 +115,7 @@ class SessionDelegator: NSObject, WCSessionDelegate, ObservableObject {
             log("Command \(reply) (\(stringData)) last sent less than 15 minutes ago without a response, ignoring")
         }
     }
-    
+    */
     /// Determines if the phone can be reached
     ///
     /// Checks to see if the session is
